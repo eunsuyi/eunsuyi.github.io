@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이은수"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/파일이름.파일형식"
   bio              : "HAFS 16"
   location         : "대한민국, 서울"
   email            : eunsu.yi214@gmail.com
